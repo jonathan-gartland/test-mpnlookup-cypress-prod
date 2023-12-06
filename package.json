@@ -19,7 +19,8 @@
   },
   "scripts": {
     "prepare": "husky install",
-    "test": "npx cypress run"
+    "test": "ELECTRON_ENABLE_LOGGING=1 npx cypress run",
+    "test:h": "ELECTRON_ENABLE_LOGGING=1 npx cypress run --headed"
   },
   "lint-staged": {
     "*.{js,jsx}": "eslint --fix",
