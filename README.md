@@ -5,7 +5,7 @@
 # no component tests  
   
   
-To Run:
-download this repo  
-npm i
-npm run test or npx cypress run
+  To Run:
+  download this repo  
+  npm i
+  npm run test or npx cypress run
