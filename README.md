@@ -1,5 +1,5 @@
 # MPN Lookup App Cypress E2E Tests
-:double_exclamation_mark: # no component tests
+:double_exclamation_mark: no component tests included, this is a standalone example for E2E setup
 
 To Run:  
 download this repo  
